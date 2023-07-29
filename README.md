@@ -17,12 +17,6 @@ This interactive dashboard provides a comprehensive visualization of the Global 
   - Pandas: Data frame handling and processing
   - Heroku: Hosting / app management
 
-## How to Use
-
-Watch this quick video to see how the dashboard works and the features available:
-
-[![Terrorism Dashboard](http://img.youtube.com/vi/BPfzqVK6gmk/0.jpg)](http://www.youtube.com/watch?v=BPfzqVK6gmk "Global Terrorism Database Interactive Dashboard")
-
 ## Data Source
 
 The dataset is obtained from the Global Terrorism Database, provided by the National Consortium for the Study of Terrorism and Responses to Terrorism (START). It contains a wealth of information about terrorist incidents worldwide.
